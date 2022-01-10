@@ -1,0 +1,24 @@
+/* styles for temp conversion form */
+body {
+    background: lightgray;
+}
+.error {
+    color: #FF0000;
+}
+form {
+    width: 500px;
+    margin: 0 auto;
+}
+legend {
+    font-size: 2em;
+}
+label {
+    display: block;
+    margin: 5px 0;
+}
+fieldset {
+    padding: 10px;
+}
+h3 {
+    color: darkcyan;
+}
